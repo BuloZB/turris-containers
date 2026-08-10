@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER Alex Samorukov <samm@os2.kiev.ua>
 # this is cross-compilation toolkit based on GCC 5.1 for the powerpcspe devices
 
